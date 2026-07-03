@@ -5,7 +5,6 @@ import ch.njol.skript.classes.ClassInfo;
 import ch.njol.skript.classes.Parser;
 import ch.njol.skript.lang.ParseContext;
 import ch.njol.skript.registrations.Classes;
-import ch.njol.skript.registrations.Converters;
 import ch.njol.skript.util.EnumUtils;
 import ch.njol.util.coll.CollectionUtils;
 import net.citizensnpcs.api.event.DespawnReason;
@@ -14,6 +13,7 @@ import net.citizensnpcs.api.npc.NPC;
 import org.bukkit.entity.Entity;
 import org.eclipse.jdt.annotation.NonNull;
 import org.eclipse.jdt.annotation.Nullable;
+import org.skriptlang.skript.lang.converter.Converters;
 
 @SuppressWarnings({"unused", "deprecation"})
 public class Types {
