@@ -62,7 +62,7 @@ if event-entity is a citizen:
 despawn last spawned npc
 ```
 
-For the full list of expressions, effects, conditions and events, check the Skript documentation generated from this addon (`/skript gen-docs` on your server) or browse the source under `src/main/java/ca/nylhus/skriptcitizens/elements/`.
+For the full list of expressions, effects, conditions and events, check the Skript documentation under `src/main/java/ca/nylhus/skriptcitizens/elements/`.
 
 ## Credits
 
